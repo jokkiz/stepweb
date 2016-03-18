@@ -1,0 +1,22 @@
+# Project files
+.idea
+env
+
+# Debug files
+*debug*
+
+# Local config
+*_local*
+static
+
+# Temporary files
+*.pyc
+__pycache__
+*.log
+log
+
+# Test data
+*fixtures*
+
+# Database
+*.sqlite3
